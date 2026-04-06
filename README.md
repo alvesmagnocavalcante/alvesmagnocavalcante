@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fca311&height=130&section=header&text=Hey,%20I'm%20Magno%20Alves%20👋&fontSize=36&fontColor=ffffff&fontAlignY=55&desc=DevOps%20·%20Automation%20·%20Python%20·%20Kubernetes&descAlignY=75&descSize=16&descColor=fca311"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fca311&height=130&section=header&text=Hey,%20I'm%20Magno%20Alves%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&fontAlignY=55&desc=DevOps%20%C2%B7%20Automation%20%C2%B7%20Python%20%C2%B7%20Kubernetes&descAlignY=75&descSize=16&descColor=fca311"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fca311&size=22&center=true&vCenter=true&width=700&lines=DevOps+%26+Automation+Engineer;Python+%7C+Django+%7C+Ansible+%7C+Docker;Kubernetes+%7C+OpenShift+%7C+n8n;Building+pipelines+%26+automating+everything+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fca311&size=22&center=true&vCenter=true&width=700&lines=DevOps+%26+Automation+Engineer;Python+%7C+Django+%7C+Ansible+%7C+Docker;Kubernetes+%7C+OpenShift+%7C+n8n;Building+pipelines+%26+automating+everything)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ```yaml
 name: Antonio Magno Alves Cavalcante
-location: Fortaleza, CE — Brazil 🇧🇷
+location: Fortaleza, CE — Brazil
 role: DevOps & Automation Engineer
 company: Tradein
 education:
@@ -74,9 +74,9 @@ currently_learning:
 
 <br/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=alvesmagnocavalcante&show_icons=true&theme=dark&bg_color=14213d&title_color=fca311&icon_color=fca311&text_color=e5e5e5&border_color=fca31133&hide_border=false&count_private=true" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvesmagnocavalcante&layout=compact&theme=dark&bg_color=14213d&title_color=fca311&text_color=e5e5e5&border_color=fca31133" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=alvesmagnocavalcante&show_icons=true&bg_color=14213d&title_color=fca311&icon_color=fca311&text_color=e5e5e5&border_color=30363d&count_private=true&hide_border=false" />
+&nbsp;&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvesmagnocavalcante&layout=compact&bg_color=14213d&title_color=fca311&text_color=e5e5e5&border_color=30363d&hide_border=false" />
 
 </div>
 
@@ -89,9 +89,11 @@ currently_learning:
 <a href="https://www.linkedin.com/in/magno-alves-712b6624b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-14213D?style=for-the-badge&logo=linkedin&logoColor=fca311" />
 </a>
+&nbsp;
 <a href="https://www.instagram.com/m4gno_4lves/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-14213D?style=for-the-badge&logo=instagram&logoColor=fca311" />
 </a>
+&nbsp;
 <a href="https://github.com/alvesmagnocavalcante" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-14213D?style=for-the-badge&logo=github&logoColor=fca311" />
 </a>
@@ -102,10 +104,11 @@ currently_learning:
 
 <div align="center">
 
-<b>Visitors</b>
-
-![Visitor Count](https://profile-counter.glitch.me/alvesmagnocavalcante/count.svg)
+<b>Visitors</b><br/><br/>
+<img src="https://komarev.com/ghpvc/?username=alvesmagnocavalcante&style=for-the-badge&color=fca311&labelColor=14213d&label=PROFILE+VIEWS" />
 
 </div>
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fca311&height=100&section=footer"/>
