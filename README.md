@@ -9,10 +9,6 @@
 <br/>
 
 ---
-
-## `magno.config.js`
-
-```js
 const magno = {
   name:     "Antonio Magno Alves Cavalcante",
   role:     "DevOps & Automation Engineer",
