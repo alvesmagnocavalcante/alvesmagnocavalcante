@@ -10,7 +10,7 @@
 
 ---
 
-
+## `magno.config.js`
 
 ```js
 const magno = {
