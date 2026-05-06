@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&customColorList=0,2,2,5,30&height=140&section=header&text=Antonio%20Magno&fontSize=42&fontColor=fca311&fontAlignY=55&desc=DevOps%20%26%20Automation%20Engineer%20%7C%20Fortaleza%2C%20Brazil&descSize=15&descAlignY=78&descFontColor=888888&animation=fadeIn"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FCA311&center=true&vCenter=true&width=600&lines=Antonio+Magno+%F0%9F%91%8B;DevOps+%26+Automation+Engineer;Fortaleza%2C+CE+%E2%80%94+Brazil" alt="Typing SVG" />
+</div>
 
 <br/>
 
@@ -72,9 +74,7 @@ learning:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=alvesmagnocavalcante&show_icons=true&bg_color=0d1117&title_color=fca311&icon_color=fca311&text_color=c9d1d9&border_color=30363d&count_private=true&rank_icon=github"/>
-  &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvesmagnocavalcante&layout=compact&bg_color=0d1117&title_color=fca311&text_color=c9d1d9&border_color=30363d&langs_count=8"/>
+  <img height="180" src="https://streak-stats.demolab.com?user=alvesmagnocavalcante&theme=dark&background=0d1117&border=30363d&stroke=fca311&ring=fca311&fire=fca311&currStreakLabel=fca311&sideLabels=c9d1d9&dates=888888&sideNums=c9d1d9&currStreakNum=fca311"/>
 </div>
 
 <br/>
@@ -85,4 +85,6 @@ learning:
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&customColorList=0,2,2,5,30&height=80&section=footer"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=444444&center=true&vCenter=true&width=400&lines=building+pipelines+%26+automating+everything" alt="footer" />
+</div>
