@@ -12,7 +12,6 @@
 
 ## `magno.config.js`
 
-```js
 const magno = {
   name:     "Antonio Magno Alves Cavalcante",
   role:     "DevOps & Automation Engineer",
@@ -34,7 +33,7 @@ const magno = {
 
   learning: ["React", "TypeScript", "Node.js", "Spring Boot"],
 };
-```
+
 
 ---
 
