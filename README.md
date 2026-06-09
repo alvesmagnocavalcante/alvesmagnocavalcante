@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>Antonio Magno · DevOps & Automation Engineer</h2>
+<h2>Magno Alves · DevOps & Automation Engineer</h2>
 <p>Fortaleza, CE — Brazil</p>
 
 <br/>
