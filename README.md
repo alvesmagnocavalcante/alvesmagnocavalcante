@@ -28,11 +28,11 @@ Construo aplicações, integrações e plataformas que automatizam processos e a
 
 Atuo como **Desenvolvedor de Automações na Carmel Hotéis**, com experiência anterior em DevOps de Automação. Meu trabalho combina desenvolvimento em Python, integração com APIs e operação de infraestrutura em múltiplas unidades.
 
-- Automações e RPAs com Python e Playwright
+- Automações e RPAs com Python
 - APIs e aplicações web com FastAPI e Django
 - Integrações com sistemas internos e APIs de terceiros
 - Infraestrutura self-hosted com Docker, Ansible e CI/CD
-- Monitoramento e análise de dados (Grafana, Power BI)
+- Monitoramento e análise de dados (Grafana)
 
 ### Tecnologias
 
@@ -47,7 +47,6 @@ Atuo como **Desenvolvedor de Automações na Carmel Hotéis**, com experiência 
 
 **Automação e Orquestração**
 
-![Playwright](https://img.shields.io/badge/Playwright-0d1117?style=flat-square&logo=playwright&logoColor=fca311)
 ![n8n](https://img.shields.io/badge/n8n-0d1117?style=flat-square&logo=n8n&logoColor=fca311)
 ![Prefect](https://img.shields.io/badge/Prefect-0d1117?style=flat-square&logo=prefect&logoColor=fca311)
 ![uv](https://img.shields.io/badge/uv-0d1117?style=flat-square&logo=uv&logoColor=fca311)
@@ -60,12 +59,10 @@ Atuo como **Desenvolvedor de Automações na Carmel Hotéis**, com experiência 
 ![Tailscale](https://img.shields.io/badge/Tailscale-0d1117?style=flat-square&logo=tailscale&logoColor=fca311)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=fca311)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=fca311)
-![Woodpecker CI](https://img.shields.io/badge/Woodpecker_CI-0d1117?style=flat-square&logo=woodpeckerci&logoColor=fca311)
 
 **Dados e Monitoramento**
 
 ![Grafana](https://img.shields.io/badge/Grafana-0d1117?style=flat-square&logo=grafana&logoColor=fca311)
-![Power BI](https://img.shields.io/badge/Power_BI-0d1117?style=flat-square&logo=powerbi&logoColor=fca311)
 
 ---
 
